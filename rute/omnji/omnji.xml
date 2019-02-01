@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<listomnji segmen="login" tema="mobile.html">
+
+<omnji isi="title">Selamat datang</omnji>
+
+<omnji  isi="header">
+	<div id="menu">
+	<a href="/home" >Home</a>
+	<a href="/pesan" >Pesan</a> 
+	<a href="/profil" >Profil</a>
+	<a href="/notifikasi" >Notifikasi</a>
+	<a href="/setting" >Setting</a>
+	</div>
+</omnji>
+
+<omnji isi="content">
+
+	<form action="" method="POST">
+	<center>
+	<input type="input" name="username" />
+
+	<input type="submit"/>
+	</center>
+	</form>
+
+
+	<?php 
+	print_r($_GET);
+	for($a=0;$a<1000;$a++){ ?>
+	<a href="" title="yooo">Hallo</a>
+	<?php
+	}
+	?>
+	
+</omnji>
+
+<omnji isi="footer">
+	<center>Panji Framework Beta ver. 1</center>
+</omnji>
+
+</listomnji>
+

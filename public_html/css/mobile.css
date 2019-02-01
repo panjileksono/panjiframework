@@ -1,0 +1,81 @@
+body { 
+			
+	background-color	: rgb(200,200,255);
+	margin-top			: 0px;
+	margin-left			: 0px;
+	margin-right		: 0px;
+	top					: 0px;
+	left				: 0xp;
+	right				: 0px;
+	width				: 100%;
+
+}
+
+#page {
+
+	background-color	: rgb(100,100,255);
+	min-width			: 300px;
+	max-width			: 500px;
+	width				: 100%;
+	margin-top			: 0px;
+	margin-left			: auto;
+	margin-right		: auto;
+	top					: 0px;
+	left				: 0xp;
+	right				: 0px;
+	border-left-width	: thin;
+	border-left-style	: groove;
+	border-right-width	: thin;
+	border-right-style	: groove;
+
+}
+
+#header {
+	
+	background-color	: rgb(255,255,255);
+	width				: 100%;
+	margin-left			: auto;
+	margin-right		: auto;
+	margin-top			: 0px;
+	top					: 0px;
+	font-size			: 20px;
+
+}
+
+#header a{
+
+	margin-right 		: 10px;
+	text-decoration		: none;
+	
+}
+
+#content {
+
+	width				: 100%;
+	margin-left			: auto;
+	margin-right		: auto;
+	margin-top			: 0px;
+	top					: 0px;
+	font-size			: 20px;
+	
+}
+
+#footer {
+
+	background-color	: rgb(200,200,230);
+	width				: 100%;
+	margin-left			: auto;
+	margin-right		: auto;
+	margin-top			: 0px;
+	top					: 0px;
+	color				: yellow;
+	
+}
+
+#header #menu {
+    padding-left		: 10px;
+	padding-right		: 10px;
+
+}
+
+

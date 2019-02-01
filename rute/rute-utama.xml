@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rutelist>
+<rute>
+	<path>/</path>
+	<call>omnji:omnji</call>
+</rute>
+
+<rute>
+	<path>/home</path>
+	<call>omnji:omnji</call>
+</rute>
+
+<rute>
+	<path>/home</path>
+	<call>omnji:omnji</call>
+</rute>
+
+<rute>
+	<path>/home/kk</path>
+	<call>mobile.html</call>
+</rute>
+
+
+
+<rute>
+	<path>/login</path>
+	<call>omnji:login</call>
+</rute>
+
+
+<rute>
+	<path>/index.php</path>
+	<call>mobile.html</call>
+</rute>
+
+
+<rute>
+	<path>/pesan</path>
+	<call>mobile.html</call>
+</rute>
+
+<rute>
+	<path>/profile</path>
+	<call>mobile.html</call>
+</rute>
+
+<rute>
+	<path>/notifikasi</path>
+	<call>mobile.html</call>
+</rute>
+
+<rute>
+	<path>/setting</path>
+	<call>desktop.html</call>
+</rute>
+
+</rutelist>
